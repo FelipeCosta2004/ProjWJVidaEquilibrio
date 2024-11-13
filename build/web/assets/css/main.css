@@ -2929,3 +2929,34 @@ section,
   background-color: color-mix(in srgb, var(--accent-color), transparent 10%);
 }
 
+.cadastro{
+    background-color: silver;
+    padding: 20px;
+}
+
+.col-md-6{
+    padding-top: 20px;
+}
+
+.form-label{
+    color: black;
+}
+
+.cadas{
+    color: black;
+}
+
+.perguntas{
+    border: solid 1px black;
+    padding: 25px;
+}
+
+h3{
+    color: black;
+}
+
+.lista{
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
