@@ -2960,3 +2960,12 @@ h3{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+.dropdown{
+    padding-right: 60px;
+}
+
+.config{
+    color: black;
+    padding-top: 20px;
+}
